@@ -1,7 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # 💓 ECSBoard Portal
-<img src="./images/ECSBoard.png" alt="ECSBoard Portal Screenshot" width="200" height="200" />
 
 
 > Monitor all your ECS clusters and services—**across environments, at a glance**.
