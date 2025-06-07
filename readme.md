@@ -70,8 +70,8 @@ This is a **monorepo** containing:
 
 Each subfolder has its own README with setup instructions.
 
-- 👉 [Backend README](./backend/README.md)
-- 👉 [Frontend README](./fronend/README.md)
+- 👉 [Backend README](./backend/readme.md)
+- 👉 [Frontend README](./fronend/readme.md)
 
 ---
 
@@ -92,7 +92,7 @@ I'm also planning to support Lambda and ASG in the future for even broader DevOp
 ## 🛠️ Setup (Summary)
 
 - Clone the repo
-- Follow individual `README.md` in `backend/` and `portal/`
+- Follow individual `readme.md` in `backend/` and `portal/`
 - Run both projects (use Docker, or separately in terminals)
 
 ---
