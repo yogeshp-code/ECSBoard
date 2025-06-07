@@ -89,12 +89,6 @@ I'm also planning to support Lambda and ASG in the future for even broader DevOp
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or GIFs of your UI here
-
----
-
 ## 🛠️ Setup (Summary)
 
 - Clone the repo
