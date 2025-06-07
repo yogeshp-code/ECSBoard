@@ -59,12 +59,13 @@ I learned backend, frontend, and microservices in college, so I leveraged that k
 ## 📂 Project Structure
 
 This is a **monorepo** containing:
-
-/ECSBoard-portal
-├── backend/ # FastAPI-based API to fetch ECS data
-├── frontend/ # Next.js frontend for displaying ECS status
-├── README.md # Main project README (you're here!)
-└── ...
+<pre>
+/ECSBoard-portal<br>
+├── backend/         # FastAPI-based API to fetch ECS data<br>
+├── frontend/        # Next.js frontend for displaying ECS status<br>
+├── README.md        # Main project README (you're here!)<br>
+└── ...              # Other supporting files/configs
+</pre>
 
 
 Each subfolder has its own README with setup instructions.
